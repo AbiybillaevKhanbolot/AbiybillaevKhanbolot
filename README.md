@@ -85,13 +85,6 @@
 Code → Git → CI → Tests → Build → Container → Registry → Deploy → Monitor
 </pre>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbiybillaevKhanbolot/AbiybillaevKhanbolot/output/github-snake.svg" alt="snake animation" />
-</p>
-
----
 
 <h3 align="left">📊 Статистика</h3>
 
