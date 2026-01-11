@@ -87,16 +87,6 @@ Code → Git → CI → Tests → Build → Container → Registry → Deploy �
 
 
 <h3 align="left">📊 Статистика</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbiybillaevKhanbolot&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbiybillaevKhanbolot&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=ru" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbiybillaevKhanbolot&layout=compact&langs_count=5&theme=dracula&locale=ru" height="150" />
-</div>
-
 ---
 
 <div align="center">
